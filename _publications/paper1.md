@@ -12,4 +12,4 @@ We present optical observations and analysis of the bright type Iax supernova SN
 
 [Download Paper here](https://iopscience.iop.org/article/10.3847/1538-4357/ad2618)
 
-Recommended citation: Mridweeka Singh et al. "SN 2020udy: A New Piece of the Homogeneous Bright Group in the Diverse Iax Subclass", <i>The American Astronomical Society<i>, 965.1 (Apr. 2024), p. 73. DOi: 10.3847/1538-4357/ad2618.
+Recommended citation: Mridweeka Singh et al. "SN 2020udy: A New Piece of the Homogeneous Bright Group in the Diverse Iax Subclass", <i>The American Astronomical Society<i>, 965.1 (Apr. 2024), p. 73. doi: 10.3847/1538-4357/ad2618.

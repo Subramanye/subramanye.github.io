@@ -3,13 +3,11 @@ permalink: /markdown/
 title: "Reach out to me "
 author_profile: true
 redirect_from: 
-  - /md/
-  - /markdown.html
+  - /resume
 ---
 
 E-mail
 ======
-
 ramacap[at]gmail[dot]com
 <!---
 ## Tips and hints

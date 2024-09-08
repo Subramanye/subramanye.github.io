@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{%files/Ram_new_CV.pdf%}
+{%Ram_new_CV.pdf%}
 
 Education
 ======

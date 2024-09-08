@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/paper1
 excerpt: 'Authors: Mridweeka Singh; Devendra K. Sahu; Barnabas Barna; Anjasha Gangopadhyay; Raya Dastidar; Rishabh Singh Teja; Kuntal Misra; D. Andrew Howell; Xiaofeng Wang; Jun Mo; Shengyu Yan; Daichi Hiramatsu; Craig Pellegrino; G. C. Anupama; Arti Joshi; K. Azalee Bostroem; Jamison Burke; Curtis McCully; Rama Subramanian V; Gaici Li; Gaobo Xi; Xin Li; Zhitong Li; Shubham Srivastav; Hyobin Im; Anirban Dutta'
-date: 14-04-2024
+date: '2024'
 venue: 'The American Astronomical Society, 965.1, p. 73'
 ---
 

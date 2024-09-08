@@ -22,7 +22,7 @@ repository               : "subramanye.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Rama Subramanian"
+  name             : "Rama Subramanian V"
   pronouns         : #"he/him " # example: "she/her"  
   bio              : "Research Student at Physical Research Laboratory"
   location         : #"Chennai, India"
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "vramasubramanian" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

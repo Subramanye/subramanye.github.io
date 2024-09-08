@@ -12,7 +12,7 @@ author_profile: true
 ---
 
 **Accepted for Publication**
-* [[PDF]](https://arxiv.org/pdf/2407.07387) A. Joshi, M. Catelan, S. Scaringi, A. Schwope, G.C. Anupama, N. Rawat, D.K. Sahu, M. Singh, R. Dastidar, _**R. Venkata Subramanian**_, S.M. Rao, "Unveiling the nature of two dwarf novae: CRTS J080846.2+313106 and V416 Dra," Astronomy & Astrophysics, 2024. [eprint arXiv:2407.07387](https://arxiv.org/abs/2407.07387). 
+* [[PDF]](https://arxiv.org/pdf/2407.07387) A. Joshi, M. Catelan, S. Scaringi, A. Schwope, G.C. Anupama, N. Rawat, D.K. Sahu, M. Singh, R. Dastidar, _**R. Venkata Subramanian**_, S.M. Rao, "Unveiling the nature of two dwarf novae: CRTS J080846.2+313106 and V416 Dra," Astronomy & Astrophysics, 2024. doi: [10.48550/arXiv.2407.07387](https://arxiv.org/abs/2407.07387). 
 
 ---
 

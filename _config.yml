@@ -24,9 +24,9 @@ author:
   avatar           : "profile.jpg"
   name             : "Rama Subramanian"
   pronouns         : #"he/him " # example: "she/her"  
-  bio              : "Research Student"
+  bio              : "Research Student at Physical Research Laboratory"
   location         : "Chennai, India"
-  employer         : "Physical Research Laboratory"
+  employer         : #""
   uri              : # URL
   email            : "none@example.org" 
 

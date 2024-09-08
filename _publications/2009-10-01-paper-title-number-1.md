@@ -5,8 +5,7 @@ category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Authors: Mridweeka Singh; Devendra K. Sahu; Barnabas Barna; Anjasha Gangopadhyay; Raya Dastidar; Rishabh Singh Teja; Kuntal Misra; D. Andrew Howell; Xiaofeng Wang; Jun Mo; Shengyu Yan; Daichi Hiramatsu; Craig Pellegrino; G. C. Anupama; Arti Joshi; K. Azalee Bostroem; Jamison Burke; Curtis McCully; Rama Subramanian V; Gaici Li; Gaobo Xi; Xin Li; Zhitong Li; Shubham Srivastav; Hyobin Im; Anirban Dutta'
 venue: 'The American Astronomical Society, 965.1 (Apr. 2024), p. 73'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: '[Paper](https://iopscience.iop.org/article/10.3847/1538-4357/ad2618)'
 citation: 'Mridweeka Singh et al. SN 2020udy: A New Piece of the Homogeneous Bright Group in the Diverse Iax Subclass, The American Astronomical Society, 965.1 (Apr. 2024), p. 73. DOi: 10.3847/1538-4357/ad2618'
 ---
 

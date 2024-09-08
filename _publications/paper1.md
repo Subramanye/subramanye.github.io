@@ -1,7 +1,6 @@
 ---
 title: "SN 2020udy: A New Piece of the Homogeneous Bright Group in the Diverse Iax Subclass"
 collection: publications
-category: manuscripts
 permalink: /publication/paper1
 excerpt: 'Authors: Mridweeka Singh; Devendra K. Sahu; Barnabas Barna; Anjasha Gangopadhyay; Raya Dastidar; Rishabh Singh Teja; Kuntal Misra; D. Andrew Howell; Xiaofeng Wang; Jun Mo; Shengyu Yan; Daichi Hiramatsu; Craig Pellegrino; G. C. Anupama; Arti Joshi; K. Azalee Bostroem; Jamison Burke; Curtis McCully; Rama Subramanian V; Gaici Li; Gaobo Xi; Xin Li; Zhitong Li; Shubham Srivastav; Hyobin Im; Anirban Dutta'
 date: 2024
@@ -13,4 +12,4 @@ We present optical observations and analysis of the bright type Iax supernova SN
 
 [Download Paper here](https://iopscience.iop.org/article/10.3847/1538-4357/ad2618)
 
-Recommended citation: Mridweeka Singh et al. SN 2020udy: A New Piece of the Homogeneous Bright Group in the Diverse Iax Subclass, The American Astronomical Society, 965.1 (Apr. 2024), p. 73. DOi: 10.3847/1538-4357/ad2618.
+Recommended citation: Mridweeka Singh et al. "SN 2020udy: A New Piece of the Homogeneous Bright Group in the Diverse Iax Subclass", <i>The American Astronomical Society<i>, 965.1 (Apr. 2024), p. 73. DOi: 10.3847/1538-4357/ad2618.

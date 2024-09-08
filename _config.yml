@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Rama Subramanian V"
+title                    : "Rama's Homepage"
 title_separator          : "-"
 name                     : &name "Rama Subramanian"
 description              : &description "personal description"
@@ -22,10 +22,10 @@ repository               : "subramanye.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Rama"
+  name             : "Rama Subramanian"
   pronouns         : #"he/him " # example: "she/her"  
   bio              : "Research Student"
-  location         : #"Earth"
+  location         : "Chennai, India"
   employer         : "Physical Research Laboratory"
   uri              : # URL
   email            : "none@example.org" 

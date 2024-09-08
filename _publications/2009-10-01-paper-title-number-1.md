@@ -1,14 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "SN 2020udy: A New Piece of the Homogeneous Bright Group in the Diverse Iax Subclass"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+excerpt: 'Authors: Mridweeka Singh; Devendra K. Sahu; Barnabas Barna; Anjasha Gangopadhyay; Raya Dastidar; Rishabh Singh Teja; Kuntal Misra; D. Andrew Howell; Xiaofeng Wang; Jun Mo; Shengyu Yan; Daichi Hiramatsu; Craig Pellegrino; G. C. Anupama; Arti Joshi; K. Azalee Bostroem; Jamison Burke; Curtis McCully; Rama Subramanian V; Gaici Li; Gaobo Xi; Xin Li; Zhitong Li; Shubham Srivastav; Hyobin Im; Anirban Dutta'
+venue: 'The American Astronomical Society, 965.1 (Apr. 2024), p. 73'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Mridweeka Singh et al. SN 2020udy: A New Piece of the Homogeneous Bright Group in the Diverse Iax Subclass, The American Astronomical Society, 965.1 (Apr. 2024), p. 73. DOi: 10.3847/1538-4357/ad2618'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+We present optical observations and analysis of the bright type Iax supernova SN 2020udy hosted by NGC 0812. The evolution of the light curve of SN 2020udy is similar to that of other bright type Iax SNe. Analytical modeling of the quasi-bolometric light curves of SN 2020udy suggests that 0.08 ± 0.01 M⊙ of 56Ni would have been synthesized during the explosion. The spectral features of SN 2020udy are similar to those of the bright members of type Iax class, showing a weak Si ii line. The late-time spectral sequence is mostly dominated by iron group elements with broad emission lines. Abundance tomography modeling of the spectral time series of SN 2020udy using TARDIS indicates stratification in the outer ejecta; however, to confirm this, spectral modeling at a very early phase is required. After maximum light, uniform mixing of chemical elements is sufficient to explain the spectral evolution. Unlike in the case of normal type Ia SNe, the photospheric approximation remains robust until +100 days, requiring an additional continuum source. Overall, the observational features of SN 2020udy are consistent with the deflagration of a carbon–oxygen white dwarf.

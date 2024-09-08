@@ -7,7 +7,8 @@ redirect_from:
   - /markdown.html
 ---
 
-## E-mail
+E-mail
+======
 
 ramacap[at]gmail[dot]com
 <!---

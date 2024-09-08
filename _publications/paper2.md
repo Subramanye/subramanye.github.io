@@ -1,5 +1,5 @@
 ---
-title: "Chandrayaan-3 landing site evolution by South Pole-Aitken basin and other impact craters (*under-revision*) "
+title: "Chandrayaan-3 landing site evolution by South Pole-Aitken basin and other impact craters "
 collection: publications
 category: under_revision
 permalink: /publication/paper2

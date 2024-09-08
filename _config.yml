@@ -21,12 +21,12 @@ repository               : "subramanye.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Rama"
   pronouns         : #"he/him " # example: "she/her"  
   bio              : "Research Student"
   location         : #"Earth"
-  employer         : "Red Brick University"
+  employer         : "Physical Research Laboratory"
   uri              : # URL
   email            : "none@example.org" 
 

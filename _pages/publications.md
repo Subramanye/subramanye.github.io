@@ -6,7 +6,7 @@ urlcolor: blue
 author_profile: true
 ---
 
-**Under - Revision**
+**Accepted for Publication**
 * S Vijayan; Kimi K.B; Anil Chavan; Aditi R; Thahira U; _**Rama Subramanian V**_; Rishitosh K sinha; Amitabh .; Santosh Vadawale; Shanmugam M; Mithun N.P.S; Arpit Patel; Amit Basu S; Iyer K.V.; Suresh K; Ajay Prashar; Rima G; Anil Bhardwaj, **"Chandrayaan-3 landing site evolution by South Pole-Aitken basin and other impact craters,"** Icarus, 2024.
 
 ---

@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 
-[Download CV here](../files/Ram_new_CV.pdf)
-<embed src="https://subramanye.github.io/files/Ram_new_CV.pdf" type="application/pdf" height="350"/>
+[Download CV here](../files/V_Rama Subramanian_CV.pdf)
+<embed src="https://subramanye.github.io/files/V_Rama Subramanian_CV.pdf" type="application/pdf" height="350"/>
 

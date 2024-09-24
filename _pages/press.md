@@ -10,8 +10,7 @@ author_profile: true
 
 Journal: [Chandrayaan-3 landing site evolution by South Pole-Aitken basin and other impact craters](https://doi.org/10.1016/j.icarus.2024.116329)
 <p align="center">
-  <img src='/images/1.jpeg' style="width:250px; display:inline-block; margin-right: 20px;">
-  <img src='/images/2.jpeg' style="width:310px; display:inline-block;">
+  <img src='/images/Picsart.jpg' style="width:350px; display:inline-block; margin-right: 20px;">
 </p>
 
 ---

@@ -15,7 +15,7 @@ main:
   #  url: /portfolio/
         
   - title: "Blog Posts"
-    url: /https://subramanye.github.io/blog/
+    url: /blog/
     
   - title: "In the news!"
     url: /press/

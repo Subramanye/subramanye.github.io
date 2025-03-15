@@ -8,5 +8,5 @@ redirect_from:
 ---
 
 [Download CV here](../files/Rama_Subramanian_(CV).pdf)
-<embed src="https://subramanye.github.io/files/V_Rama_Subramanian_CV.pdf" type="application/pdf" height="350"/>
+<embed src="https://subramanye.github.io/files/Rama_Subramanian_(CV).pdf" type="application/pdf" height="350"/>
 
